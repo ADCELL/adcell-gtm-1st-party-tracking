@@ -1,6 +1,6 @@
 homepage: "https://www.adcell.de"
-documentation: "XXX"
+documentation: "https://github.com/ADCELL/adcell-gtm-1st-party-tracking/blob/main/README.md"
 versions:
-  - sha: XXX
+  - sha: d36d6507544d919d885fb3246a27cadb530cd815
     changeNotes: Initial release.
 
